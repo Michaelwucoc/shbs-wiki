@@ -1,2 +1,5 @@
 # SHBS WIKI PROJECT
-Server by Milk Team, content made by love.
+本文件为文件信息:
+- Powered By : MSWG Group
+- Made By : Ivan 无遗憾
+- Copyright - MSWG Group
