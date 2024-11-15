@@ -2,7 +2,7 @@
 title: 本站负责人详情
 description: 
 published: true
-date: 2024-11-15T02:57:07.530Z
+date: 2024-11-15T02:57:56.657Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T02:08:47.550Z
@@ -20,7 +20,7 @@ FENGXIA LIU ——Honorary webmaster
 
 WENGUO CHEN ——Physical webmaster
 
-Chris Moses ——NAKAMURUA1145
+Chris Moses ——take away god
 
 无遗憾IVAN ——admin
 <style>
