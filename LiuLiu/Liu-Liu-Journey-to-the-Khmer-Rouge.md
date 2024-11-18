@@ -1,8 +1,8 @@
 ---
-title: 刘刘的红色高棉之旅
+title: 刘刘的高棉之旅
 description: 
 published: true
-date: 2024-11-18T01:06:58.169Z
+date: 2024-11-18T01:07:27.315Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T12:31:00.396Z
