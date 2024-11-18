@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-11-18T01:26:27.361Z
+date: 2024-11-18T02:07:03.995Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T01:48:53.736Z
@@ -93,5 +93,5 @@ SHBS WIKI 致力于收及全宏润的乐子。
 
 ~~伟大领袖刘日成万岁！~~
   ![7bcfe06a1efa61e485f3603fb5667924.jpg](/7bcfe06a1efa61e485f3603fb5667924.jpg)
-  
+  ![yuzisoft1.webp](/yuzisoft1.webp)
 
