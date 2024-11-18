@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-11-18T12:53:09.594Z
+date: 2024-11-18T12:53:30.966Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T01:48:53.736Z
@@ -11,7 +11,6 @@ dateCreated: 2024-11-13T01:48:53.736Z
 # 关于
 本WIKI是自学生自由编辑的WIKI,由刘春凤刘校长亲自指挥亲自部署。
 *SHBS WIKI 致力于收及全宏润的乐子。*
-本WIKI有一个特殊的规则，如果您贡献了这篇条目。您可以在条目最后放一张您最喜欢的二次元角色的图片。NAKAMURA1145会帮助您更改格式etc。
 
 ![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/shbs-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/shbs-wiki?style=for-the-badge) ![](https://img.shields.io/badge/SHBS-WIKI-red?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20IVAN-blue?style=for-the-badge)
 <br>
