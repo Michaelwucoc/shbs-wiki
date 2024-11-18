@@ -2,7 +2,7 @@
 title: 黑奴义工
 description: 宏润离谱制度
 published: true
-date: 2024-11-18T06:54:31.836Z
+date: 2024-11-18T11:55:32.119Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T02:10:14.901Z
@@ -38,8 +38,7 @@ dateCreated: 2024-11-18T02:10:14.901Z
 通常实施者在各个微信群内招募义工,根据*MSWG*数据显示:
 在最近的半个学期中,义工相关招募超过了`205`次
 ![qq_1731895660145.png](/service-hour/qq_1731895660145.png)
-
-# 为何义工
+![muku_helloween.png](/muku_helloween.png)
 
 
 
