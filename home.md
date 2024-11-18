@@ -2,13 +2,13 @@
 title: 首页
 description: 
 published: true
-date: 2024-11-18T02:07:03.995Z
+date: 2024-11-18T02:16:51.869Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T01:48:53.736Z
 ---
 
-# 关于
+![yuzisoft1.webp](/yuzisoft1.webp)# 关于
 本WIKI是自学生自由编辑的WIKI,由刘春凤刘校长亲自指挥亲自部署。
 SHBS WIKI 致力于收及全宏润的乐子。
 
@@ -92,6 +92,5 @@ SHBS WIKI 致力于收及全宏润的乐子。
 刘日成将军愤怒地拧起眉头，他看到又一架俄罗斯飞机准备从阵地上飞过，他举起了枪，瞄准了敌人的飞机。当敌人对准了我们的阵地，正在往下飞来时，将军开枪了。瞬间，一团巨大的火团，在空中爆发燃烧了，残骸纷纷落下。学生们欢呼起来。剩下的俄罗斯飞机惊呆了，他们再也没有勇气继续，纷纷向南方逃跑了。学生们在阵地上，向着刘日成将军欢呼：
 
 ~~伟大领袖刘日成万岁！~~
-  ![7bcfe06a1efa61e485f3603fb5667924.jpg](/7bcfe06a1efa61e485f3603fb5667924.jpg)
-  ![yuzisoft1.webp](/yuzisoft1.webp)
+![yuzi2.png](/yuzi2.png)
 
