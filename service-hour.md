@@ -2,7 +2,7 @@
 title: 黑奴义工
 description: 宏润离谱制度
 published: true
-date: 2024-11-18T02:57:14.104Z
+date: 2024-11-18T02:59:08.957Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T02:10:14.901Z
@@ -11,29 +11,17 @@ dateCreated: 2024-11-18T02:10:14.901Z
 # 什么是义工
 
 <table class="custom-table">
-
   <tr>
-
     <td style="width: 55px; padding: 2px; text-align: center; border-right:1px solid #AAA;">
-
-      < img src="/原神图标.jpeg" alt="原神图标.jpeg" />
-
+      <img src="/原神图标.jpeg" alt="原神图标.jpeg" />
     </td>
-
     <td style="padding: 5px 20px;">
-
       <b>没妈的制度/机构警告，，，，</b>
-
       <div style="font-size: smaller; margin: 2px 0px 2px 25px;">
-
         <p>本页面所展示的一个伟大的可以和米哈游公司开发的原神相提并论的机构/制度，有可能您正在深受其害。</p >
-
       </div>
-
     </td>
-
   </tr>
-
 </table>
 
 
