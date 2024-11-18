@@ -12,7 +12,7 @@ dateCreated: 2024-11-13T01:48:53.736Z
 本WIKI是自学生自由编辑的WIKI,由刘春凤刘校长亲自指挥亲自部署。
 SHBS WIKI 致力于收及全宏润的乐子。
 
-![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/shbs-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/shbs-wiki?style=for-the-badge) ![](https://img.shields.io/badge/SHBS-WIKI-red?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20MILK-blue?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/shbs-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/shbs-wiki?style=for-the-badge) ![](https://img.shields.io/badge/SHBS-WIKI-red?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20IVAN-blue?style=for-the-badge)
 <br>
 
 
