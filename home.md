@@ -8,7 +8,8 @@ editor: markdown
 dateCreated: 2024-11-13T01:48:53.736Z
 ---
 
-![yuzisoft1.webp](/yuzisoft1.webp)# 关于
+![yuzisoft1.webp](/yuzisoft1.webp)
+# 关于
 本WIKI是自学生自由编辑的WIKI,由刘春凤刘校长亲自指挥亲自部署。
 SHBS WIKI 致力于收及全宏润的乐子。
 
