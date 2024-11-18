@@ -26,7 +26,7 @@ Chris Moses ——Take-away god
 <table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);">
   <tr>
     <td style="min-width:80px;">
-      < img src="/death.jpg" alt="death">
+      <img src="/death.jpg" alt="death">
     </td>
     <td style="text-align:left; color:white; background:black;">
       <p>人生自古谁无死？不幸地，<span style="border:solid thin;">人物</span>已经逝世，因此无法继续与您互动，让我们永远缅怀它。</p >
