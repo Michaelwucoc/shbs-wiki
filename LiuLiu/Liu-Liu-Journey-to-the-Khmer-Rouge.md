@@ -2,7 +2,7 @@
 title: 刘刘的高棉之旅
 description: 
 published: true
-date: 2024-11-18T01:07:27.315Z
+date: 2024-11-18T02:58:49.094Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T12:31:00.396Z
@@ -16,3 +16,4 @@ dateCreated: 2024-11-13T12:31:00.396Z
 
 波尔刘特执政期间，政治上大力打压异见者，清洗显贵、教徒和知识分子，通过树立个人崇拜控制舆论；经济上实行激进政策和极「左」路线，剥夺学生手机，取消休息，废除春秋游制度，实行PB CAS。其统治使SHBS国家经济全面崩溃，并导致了至少200万学生的非正常死亡。
 
+![muku_helloween.png](/muku_helloween.png)
