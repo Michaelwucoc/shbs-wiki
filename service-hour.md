@@ -2,7 +2,7 @@
 title: 黑奴义工
 description: 宏润离谱制度
 published: true
-date: 2024-11-18T03:04:51.985Z
+date: 2024-11-18T03:06:12.136Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T02:10:14.901Z
@@ -13,7 +13,7 @@ dateCreated: 2024-11-18T02:10:14.901Z
 <table class="custom-table">
   <tr>
     <td style="width: 55px; padding: 2px; text-align: center; border-right:1px solid #AAA;">
-      <img src="https://photo.vteamer.cc/i/2024/11/18/i9h0ks.png
+      <img src="https://photo.vteamer.cc/i/2024/11/18/ia544o.png
 " alt="原神图标" />
     </td>
     <td style="padding: 5px 20px;">
