@@ -2,29 +2,26 @@
 title: 黑奴义工
 description: 宏润离谱制度
 published: true
-date: 2024-11-18T03:06:12.136Z
+date: 2024-11-18T06:54:31.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T02:10:14.901Z
 ---
 
 # 什么是义工
-
-<table class="custom-table">
+<table class="custom-table" style="background-color: #FFFFFF; color: #000000;">
   <tr>
     <td style="width: 55px; padding: 2px; text-align: center; border-right:1px solid #AAA;">
-      <img src="https://photo.vteamer.cc/i/2024/11/18/ia544o.png
-" alt="原神图标" />
+      <img src="https://photo.vteamer.cc/i/2024/11/18/ia544o.png" alt="原神图标" />
     </td>
     <td style="padding: 5px 20px;">
-      <b>没妈的制度/机构警告，，，，</b>
-      <div style="font-size: smaller; margin: 2px 0px 2px 25px;">
-        <p>本页面所展示的一个伟大的可以和米哈游公司开发的原神相提并论的机构/制度，有可能您正在深受其害。</p >
+      <b>死妈的制度/机构，，，</b>
+    <div style="font-size: smaller; margin: 2px 0px 2px 25px;">
+        <p>本页面展示了堪比米哈游公研发的游戏原神一样伟大的作品/机构，请酌情观看避免大脑降级。</p>
       </div>
     </td>
   </tr>
 </table>
-
 
 在伟大的宏润博园学校中, “义工”一定不是那么陌生。为何我们要追求义工? 根据我们至高无上领导者刘刘的言论所说
 
