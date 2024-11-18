@@ -2,14 +2,82 @@
 title: 黑奴义工
 description: 宏润离谱制度
 published: true
-date: 2024-11-18T02:10:14.901Z
+date: 2024-11-18T02:55:19.371Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T02:10:14.901Z
 ---
 
 # 什么是义工
+<style>
 
+  /* 默认浅色模式样式 */
+
+  .custom-table {
+
+    font-size: 95%;
+
+    width: 75%;
+
+    margin: 0 auto -2px auto;
+
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12), 0 2px 1px -2px rgba(0,0,0,.2);
+
+    border: 1px #AAA solid;
+
+    border-left: 10px solid #228b22;
+
+    border-collapse: collapse;
+
+    background-color: white;
+
+    color: black;
+
+  }
+
+  /* 深色模式样式 */
+
+  @media (prefers-color-scheme: dark) {
+
+    .custom-table {
+
+      background-color: black;
+
+      color: white;
+
+      border-left: 10px solid #1E90FF;
+
+    }
+
+  }
+
+</style>
+
+<table class="custom-table">
+
+  <tr>
+
+    <td style="width: 55px; padding: 2px; text-align: center; border-right:1px solid #AAA;">
+
+      < img src="/原神图标.jpeg" alt="原神图标.jpeg" />
+
+    </td>
+
+    <td style="padding: 5px 20px;">
+
+      <b>没妈的制度/机构警告，，，，</b>
+
+      <div style="font-size: smaller; margin: 2px 0px 2px 25px;">
+
+        <p>本页面所展示的一个伟大的可以和米哈游公司开发的原神相提并论的机构/制度，有可能您正在深受其害。</p >
+
+      </div>
+
+    </td>
+
+  </tr>
+
+</table>
 在伟大的宏润博园学校中, “义工”一定不是那么陌生。为何我们要追求义工? 根据我们至高无上领导者刘刘的言论所说
 
 > 除了个人兴趣和社会责任感，参与义工还有其他好处，例如可以提高自信心、培养领导力、增加社交经验、提升大学申请竞争力等。
