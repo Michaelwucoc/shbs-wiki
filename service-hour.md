@@ -2,7 +2,7 @@
 title: 黑奴义工
 description: 宏润离谱制度
 published: true
-date: 2024-11-18T11:55:32.119Z
+date: 2024-11-18T11:57:01.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T02:10:14.901Z
@@ -17,7 +17,7 @@ dateCreated: 2024-11-18T02:10:14.901Z
     <td style="padding: 5px 20px;">
       <b>死妈的制度/机构，，，</b>
     <div style="font-size: smaller; margin: 2px 0px 2px 25px;">
-        <p>本页面展示了堪比米哈游公研发的游戏原神一样伟大的作品/机构，请酌情观看避免大脑降级。</p>
+        <p>本页面展示了堪比米哈游公司研发的游戏原神一样伟大的作品/机构，请酌情观看避免大脑降级。</p>
       </div>
     </td>
   </tr>
