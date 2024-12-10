@@ -2,7 +2,7 @@
 title: 黑奴义工
 description: 宏润离谱制度
 published: true
-date: 2024-11-25T04:46:32.044Z
+date: 2024-12-10T11:11:27.654Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-18T02:10:14.901Z
@@ -42,8 +42,16 @@ dateCreated: 2024-11-18T02:10:14.901Z
 以下是常见的义工项目:
 ## 海报项目
 通常会以一个非常简短的提示词来**诱骗**学生上当，随即在学生做完项目之后一改再改。
-![muku_helloween.png](/muku_helloween.png)
 
+
+## 搬运工
+通常会通过组织同学无偿搬运大量物品来压榨体力
+
+## 保洁
+打扫校园各个地方(无敌了)
+
+
+![muku_helloween.png](/muku_helloween.png)
 
 
 
