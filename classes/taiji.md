@@ -2,7 +2,7 @@
 title: 猎奇之一个学期换3个太极老师
 description: 
 published: true
-date: 2024-12-10T11:37:34.020Z
+date: 2024-12-10T11:38:05.585Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T11:30:52.632Z
@@ -55,4 +55,4 @@ dateCreated: 2024-12-10T11:30:52.632Z
 
 # 前人留下的资料
 以下是我们尊敬的第一任**胡教练**留下的珍贵资料。
-<video controls src="https://file.milkawa.xyz/taiji.mp4" width="1000"></video>
+<video controls src="https://file.milkawa.xyz/taiji.mp4" style="width: 100%; max-width: 600px; height: auto;"></video>
