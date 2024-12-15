@@ -2,7 +2,7 @@
 title: 极其“流畅”的校园网
 description: Compilation and rules of this website, how to join, etc.
 published: true
-date: 2024-12-15T06:17:01.463Z
+date: 2024-12-15T06:42:33.290Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-15T06:06:35.352Z
@@ -31,6 +31,8 @@ dateCreated: 2024-12-15T06:06:35.352Z
 **“咱们校园网是不是限下行啊”
 “我的诉求是三台设备同时联网。
 
+据某位公民反应
+
 我认为根据成绩搞这种三六九等看不起人的限制很极端。
 
 我还认为极端的事情就要用极端的手段去解决。
@@ -46,7 +48,12 @@ dateCreated: 2024-12-15T06:06:35.352Z
 
 规则随意歧视我，我还要遵守规则吗？”**
 
-
+SHBS最常用的网络有三个
+1、teacher网络（网速较快，全时段）
+2、Guest网络（网速最快，限时）
+3、student网络（网速最慢，限时）
+而自12月10日起，克里斯毛瑟斯将teacher网络和guest网络对学生关闭。
+更快的网速意味着更多的费用，而伟大的刘春凤将军和克里斯上将为了~~自己的布加迪碎片~~SHSB的长远发展，节省了很多的网络费用
 
 ![yuzi1.png](/yuzi1.png)
 
