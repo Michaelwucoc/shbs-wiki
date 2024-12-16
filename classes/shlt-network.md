@@ -2,7 +2,7 @@
 title: 极其“流畅”的校园网
 description: Compilation and rules of this website, how to join, etc.
 published: true
-date: 2024-12-16T01:01:04.060Z
+date: 2024-12-16T01:02:39.704Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-15T06:06:35.352Z
@@ -13,6 +13,7 @@ dateCreated: 2024-12-15T06:06:35.352Z
 这一世，我重生了，我重生在了一个学校里，我立志要让人都不好过，什么轻松上网，必须每次息屏都重新输密码。什么网速，全部给我限制住了！学生们恶气熏天，但他们恍若未闻，同样恶劣的笑着，甚至想体验流畅的网络。呵，简直是痴心妄想。
 同学，同学？同学，你是想先上课，先吃饭，还是……被我恶心？
 只见克里斯径直走向reference查到一半的同学，伸出手，勾了勾同学的下巴，说：“小样，还想好过？”
+
 <table class="custom-table">
   <tr>
     <td style="width: 55px; padding: 2px; text-align: center; border-right:1px solid #AAA;">
@@ -28,7 +29,7 @@ dateCreated: 2024-12-15T06:06:35.352Z
   </tr>
 </table>
 
-**“咱们校园网是不是限下行啊”
+>“咱们校园网是不是限下行啊”
 “我的诉求是三台设备同时联网。
 
 **据某位公民反应**
@@ -52,8 +53,11 @@ SHBS最常用的网络有三个
 1、teacher网络（网速较快，全时段）
 2、Guest网络（网速最快，限时）
 3、student网络（网速最慢，限时）
-而自12月10日起，克里斯毛瑟斯将teacher网络和guest网络对学生关闭。
-更快的网速意味着更多的费用，而伟大的刘春凤将军和克里斯上将为了~~自己的布加迪碎片~~SHSB的长远发展，节省了很多的网络费用
+而自12月10日起，克里斯毛瑟斯将teacher网络和guest网络对学生关闭，并且采用十分强硬的态度要求学生使用自己的网络。开放了3年的SHBS-Teacher,SHBS-Guest就此落幕/
+更快的网速意味着更多的费用，而伟大的刘春凤将军和克里斯上将为了~~自己的布加迪碎片~~SHSB的长远发展，节省了很多的网络费用。
+
+# 网络架构
+我们学校真的缺网络资源吗?
 
 ![yuzi1.png](/yuzi1.png)
 
